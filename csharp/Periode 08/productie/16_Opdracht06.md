@@ -1,4 +1,4 @@
-####[kleurcode]rgba(239,108,0,1)
+#### [kleurcode]rgba(239,108,0,1)
 
 #Opdracht 6 - NYCM- SQL#
 
