@@ -6,7 +6,7 @@ Opdracht 6 is een uitbreiding op opdracht 06. De Data Access Layer moet in deze 
 
 Om de Listview overzichten te maken van de populaties en de hoofddeel relaties te kunnen samenstellen met de comboboxen moeten de juiste SQL tabellen op aanvraag worden uitgelezen door de Data Access Layer en worden doorgegeven aan de bovenliggende lagen.
 
-------
+-----
 
 In Opdracht 6 moeten de de volgende onderwerpen uitgewerkt in de opdracht:
 
