@@ -1,6 +1,6 @@
 #### [kleurcode]rgba(239,108,0,1)
 
-#Opdracht 6 - NYCM- SQL#
+# Opdracht 6 - NYCM- SQL
 
 Opdracht 6 is een uitbreiding op opdracht 06. De Data Access Layer moet in deze opdracht worden vervangen door een Data Access Layer die een verbinding legt met een SQL database. De Data Access Layer zorgt ervoor dat de gevulde data objecten van de deelnemer en de registratiepunten worden opgeslagen als records in de de corresponderende SQL tabellen. 
 
