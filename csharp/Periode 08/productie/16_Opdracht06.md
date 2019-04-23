@@ -2,6 +2,8 @@
 
 # Opdracht 6 - NYCM- SQL
 
+kleine update test
+
 Opdracht 6 is een uitbreiding op opdracht 06. De Data Access Layer moet in deze opdracht worden vervangen door een Data Access Layer die een verbinding legt met een SQL database. De Data Access Layer zorgt ervoor dat de gevulde data objecten van de deelnemer en de registratiepunten worden opgeslagen als records in de de corresponderende SQL tabellen. 
 
 Om de Listview overzichten te maken van de populaties en de hoofddeel relaties te kunnen samenstellen met de comboboxen moeten de juiste SQL tabellen op aanvraag worden uitgelezen door de Data Access Layer en worden doorgegeven aan de bovenliggende lagen.
